@@ -15,7 +15,7 @@
         <mobile_title>Closed</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>x_cdltd_loaner_app_loaner_request</name>
-        <order>5</order>
+        <order>600</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
@@ -26,7 +26,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>58535709e1ff00107f44ace878c313af</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Closed</sys_name>
         <sys_overrides/>
         <sys_package display_value="Loaner App" source="x_cdltd_loaner_app">a2a197c5e1ff00107f44ace878c313df</sys_package>
@@ -34,7 +34,7 @@
         <sys_scope display_value="Loaner App">a2a197c5e1ff00107f44ace878c313df</sys_scope>
         <sys_update_name>sys_app_module_58535709e1ff00107f44ace878c313af</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-03-25 14:51:06</sys_updated_on>
+        <sys_updated_on>2020-03-25 15:03:22</sys_updated_on>
         <timeline_page/>
         <title>Closed</title>
         <uncancelable>false</uncancelable>
